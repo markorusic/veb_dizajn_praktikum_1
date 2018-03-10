@@ -3,9 +3,6 @@
 <footer class="main-footer">
     <div class="container clearfix">
         <div class="float-lg-left">
-            <!-- <a href="index.php"><img src="img/logo-footer.png" alt="ZERO11 DESIGN LOGO" class="img-fluid logo-footer"></a> -->
-            <!-- <a href="/">Filmovix</a> -->
-            <!-- <small>© 2018 Marko Rusic 22/17</small> -->
             <ul class="list-reset footer-nav">
                 <li><a href="/about-me.php">O autoru</a></li>
                 <li><a href="/sitemap.xml">Sitemap</a></li>
