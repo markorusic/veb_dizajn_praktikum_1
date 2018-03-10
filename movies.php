@@ -21,7 +21,7 @@ include('partials/header.php'); ?>
             <div class="flex-space-between flex-sm-reverse moive-top-area">
                 <div class="movie-details p-3">
                     <h2 class="movie-title uc"><?=$item['title']?></h2>
-                    <h5 class="movie-original-title italic"><?=$item['title']?></h5>
+                    <h6><span class="bold yellow">ŽANROVI:</span> <?=$item['genres']?></h6>
                     <h6><span class="bold yellow">REŽIJA:</span> Jodie Foster</h6>
                     <h6><span class="bold yellow">GLUMCI:</span> George Clooney, Julia Roberts, Jack O'Connell, Dominic West, Caitriona Balfe</h6>
                     <div class="user-actions">
