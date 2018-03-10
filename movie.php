@@ -57,7 +57,7 @@ include('partials/header.php'); ?>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 offset-lg-2">
                     <div class="mt-3">
-                        <h2 class="mb-3 nice-font">Preporucujemo: </h2>
+                        <h2 class="mb-3 nice-font">Preporučujemo: </h2>
                         <div class="container">
                             <div class="row">                            
                                 <?php foreach($recommendedMovies as $movie): ?>

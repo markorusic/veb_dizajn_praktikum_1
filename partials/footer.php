@@ -15,7 +15,7 @@
                 <li><a href="#" target="_blank"><i class="fa fa-2x fa-twitter"></i></a></li>
             </ul>
             <form>
-                <input type="email" placeholder="Prijavite se na nas newsletter" required>
+                <input type="email" placeholder="Prijavite se na naš newsletter" required>
             </form>
         </div>
     </div>

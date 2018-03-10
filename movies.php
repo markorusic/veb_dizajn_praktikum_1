@@ -12,7 +12,7 @@ include('partials/header.php'); ?>
         <div class="container py-5">
         	<div class="row">
         		<div class="col-12 px-3">
-        			<h2 class="nice-font">Sta ti se gleda?</h2>
+        			<h2 class="nice-font">Šta ti se gleda?</h2>
     				<ul class="list-reset genre-list-2">
     					<li class="active">Sve</li>
         				<?php foreach($genres as $genre): ?>
