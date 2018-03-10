@@ -9,13 +9,13 @@
 
     <!-- META TAGS -->
     <meta name="description" content="Flimflix - kao netflix samo bolje!"/>
-    <meta property="og:url" content="http://filmoflix.herokuapp.com"/>
+    <meta property="og:url" content="https://filmoflix.herokuapp.com>
     <meta property="og:locale" content="rs" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="<?php echo $page_title ?> - Filmoflix" />
 
-    <link rel="canonical" href="http://filmoflix.herokuapp.com/" />
-    <link type="text/plain" rel="author" href="http://filmoflix.herokuapp.com/humans.txt" />
+    <link rel="canonical" href="https://filmoflix.herokuapp.com" />
+    <link type="text/plain" rel="author" href="https://filmoflix.herokuapp.com/humans.txt" />
     <meta name="theme-color" content="#ffffff">    
     
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700" rel="stylesheet">
