@@ -14,15 +14,15 @@ include('partials/header.php'); ?>
             <hr>
             <form>
                 <div class="form-group">
-                    <label for="contact-email">Vasa Email adresa</label>
+                    <label for="contact-email">Vaša Email adresa</label>
                     <input type="email" class="form-control input" required id="contact-email" aria-describedby="emailHelp" placeholder="Unesite email">
                 </div>
                 <div class="form-group">
-                    <label for="contact-msg">Vasa poruka</label>
-                    <textarea name="msg" required id="contact-msg" class="form-control textarea" cols="30" rows="10" placeholder="Napisite nam nesto lepo!"></textarea>
+                    <label for="contact-msg">Vaša poruka</label>
+                    <textarea name="msg" required id="contact-msg" class="form-control textarea" cols="30" rows="10" placeholder="Napišite nam nesto lepo!"></textarea>
                 </div>
                 <div class="form-group">
-                    <button class="btn btn-primary-my btn-lg">Posalji</button>
+                    <button class="btn btn-primary-my btn-lg">Pošalji</button>
                 </div>
             </form>            
         </div>

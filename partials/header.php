@@ -112,7 +112,7 @@
                 </div>
                 <div class="form-group">
                     <label for="reg-password-confirm">Potvrdite lozinku</label>
-                    <input type="password" class="form-control input" required id="reg-password-confirm" placeholder="Lozinka">
+                    <input type="password" class="form-control input" required id="reg-password-confirm" placeholder="Potvrda lozinke">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-primary-my">Registruj se</button>
