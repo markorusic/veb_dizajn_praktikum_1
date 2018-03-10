@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://filmoflix.herokuapp.com/</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=random</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/about.php</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/contact.php</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=384</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=3452</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=16</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=33</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=34</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=37</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=45</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=54</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=55</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=66</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=70</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=71</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=73</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=85</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=88</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=116</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=126</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=128</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=132</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=133</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=134</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=141</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=150</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=156</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=160</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=167</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=174</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=175</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=182</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=207</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=210</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=217</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=225</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=227</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=231</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=235</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=236</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=247</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=250</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=252</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=253</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=255</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=262</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=283</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/movies.php?id=289</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filmoflix.herokuapp.com/about-me.php</loc>
+  <lastmod>2018-03-10T02:59:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
