@@ -65,7 +65,7 @@ include('partials/header.php'); ?>
                                 <?php foreach($recommendedMovies as $movie): ?>
                                     <div class="col-6 col-sm-4 movie-recomendation-item">
                                         <article>
-                                            <a href="movies.php?id=<?= $movie['id'] ?>">
+                                            <a href="movie.php?id=<?= $movie['id'] ?>">
                                                 <img src="<?= $movie['portrait_img'] ?>" alt="<?= $movie['title'] ?>" class="similar-movie-img movie-img-link">
                                             </a>
                                         </article>
