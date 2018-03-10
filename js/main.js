@@ -24,9 +24,9 @@ var genreFilter = (function () {
     	$movies.each(function(index, movie) {
     		var genres = movie.dataset.genres.split(',');
     		if(genres.indexOf(activeGenre) == -1)
-    			$(movie).hide();
+    			$(movie).fadeOut();
     		else
-    			$(movie).show();
+    			$(movie).fadeIn();
     	});
     }
 
@@ -40,12 +40,6 @@ var genreFilter = (function () {
 
  	function _bindEvents() {
  		$genres.on('click', _handleGenreClick);
- 		// $movies.on('mouseenter', 'mouseleave', _toggleContent);
- 	}
-
- 	function _toggleContent(event) {
- 		$(event.target).find('.movie-overlay').toggle();
- 		$(event.target).find('.movie-content').toggle();
  	}
 
     return {
