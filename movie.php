@@ -2,15 +2,17 @@
 
 include('content.php');
 
-// if(!isset($_GET['id'])) {
-//     //handle bad request
-// }
-
-// if(is_null(findMovie($id, $movies))) {
-//     //handle not found
-// }
+if(!isset($_GET['id'])) {
+    include('errors/400.php');
+    die();
+}
 
 $id = $_GET['id'];
+
+if(is_null(findMovie($id, $movies)) && $id != 'random') {
+    include('errors/404.php');
+    die();
+}
 
 $item = null;
 

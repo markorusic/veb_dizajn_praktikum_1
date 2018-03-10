@@ -9,7 +9,7 @@
 
     <!-- META TAGS -->
     <meta name="description" content="Flimflix - kao netflix samo bolje!"/>
-    <meta property="og:url" content="https://filmoflix.herokuapp.com>
+    <meta property="og:url" content="https://filmoflix.herokuapp.com">
     <meta property="og:locale" content="rs" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="<?php echo $page_title ?> - Filmoflix" />
