@@ -140,6 +140,11 @@ input[type="text"] {
     display: flex;
     justify-content: center;    
 }
+.flex-center-both {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .flex-center-col {
     display: flex;
     justify-content: center;
@@ -214,7 +219,6 @@ input[type="text"] {
 #home h3 {
     margin-bottom: 30px;
 }
-
 #home-carousel .carousel-control-prev,
 #home-carousel .carousel-control-next {
     background-color: rgba(0, 0, 0, 0.4);
@@ -229,54 +233,93 @@ input[type="text"] {
     position: absolute;
     bottom: 0;
 }
-#about > .container > article {
-    margin-bottom: 60px;
-}
 
-#about > .container > article h3 {
-    margin-bottom: 30px;;
-}
-
-#about > .container > article h6 {
-    font-weight: 800;
-    font-size: 14px;
-    margin-bottom: 0;
-}
-
-main#movie {
+#movie {
     overflow-x: hidden;
 }
-
-#about > .container > article.managment h3 {
-    margin-bottom: 0;
-    text-transform: uppercase;
+#movies .genre-list li {
+    border-radius: 0px;
+}
+#movies .genre-list li.active {
+    color: black;
+    font-weight: bold;
+    background-color: #FDC608;
+    border-color: black;
+}
+#movies .genre-list li:hover {
+    opacity: 0.8;
+    cursor: pointer;
 }
 
-#about > .container > article.managment h3 span {
-    font-weight: 400;
+#movies .genre-list-2 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
 }
 
-#about > .container > article.managment h3 span.yellow-slash {
-    font-weight: 700;
+#movies .genre-list-2 li {
+    padding: 10px;
+    background-color: #222;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+#movies .genre-list-2 li:not(:last-child) {
+    margin-right: 5px;    
+}
+#movies .genre-list-2 li:hover {
+    background-color: #FDC608;
+    color: black;    
+}
+#movies .genre-list-2 li.active {
+    border: 1px solid black;
+    font-weight: bold;
+    background-color: #FDC608;
+    color: black;
+}
+#movies .moive-item {
+    padding: 5px;
+    margin: 0;
 }
 
-#about > .container > article.managment h6 {
-    margin-bottom: 35px;
-    font-weight: 400;
+#movies .moive-item article {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: block;
+    padding-bottom: 150%;
+    position: relative;
+    cursor: pointer;
 }
 
-#about > .container > article.managment .col-md-4 {
-    margin-top: 30px;
+#movies .moive-item:hover .movie-overlay {
+    display: block;
 }
 
-#about > .container > article.managment .col-md-4 img {
-    padding-top: 5px;
+#movies .moive-item:hover .movie-content {
+    display: flex;
 }
 
-#about > .container > article.managment .col-md-8 {
-    margin-top: 30px;
-    padding-left: 50px;
+.movie-overlay {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.70);
 }
+
+.movie-content {
+    display: none;
+    position: absolute;
+    color: #fff;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
 
 #contact .social-links {
     display: flex;
@@ -434,6 +477,11 @@ input:focus {
 }
 @media screen and (max-width: 767px) {    
     
+    #movies .genre-list {
+        max-height: 455px;
+        overflow-y: scroll;
+    }
+
     .flex-sm-reverse {
         flex-direction: column-reverse;
     }

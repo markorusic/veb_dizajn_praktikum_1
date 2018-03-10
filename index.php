@@ -12,7 +12,7 @@ include('partials/header.php'); ?>
 
     <?php include('partials/carousel.php'); ?>   
 
-    <div class="container" style="margin-top: 50px;">
+    <div class="container mt-5">
 
         <article>
             <div class="row">
@@ -28,10 +28,10 @@ include('partials/header.php'); ?>
             <?php foreach(getReccomended(null, $movies, 12) as $movie): ?>
                 <div class="col-12 col-sm-6 col-lg-4 home-movie-item">
                     <article>
-                        <h4><a href="movies.php?id=<?= $movie['id'] ?>" class="movie-name">
+                        <h4><a href="movie.php?id=<?= $movie['id'] ?>" class="movie-name">
                             <span class="yellow-slash">/</span> <?= $movie['title'] ?></a>
                         </h4>
-                        <a href="movies.php?id=<?= $movie['id'] ?>">
+                        <a href="movie.php?id=<?= $movie['id'] ?>">
                             <img src="<?= $movie['landscape_img'] ?>" alt="<?= $movie['title'] ?>" class="img-fluid movie-img-link">
                         </a>
                     </article>

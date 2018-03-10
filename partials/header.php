@@ -38,10 +38,10 @@
             <div class="navbar-collapse collapse" id="main-nav">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/movies.php?id=random">Iznenadi me</a>
+                        <a class="nav-link" href="/movie.php?id=random">Iznenadi me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about.php">O nama</a>
+                        <a class="nav-link" href="/movies.php">Filmovi</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/contact.php">Kontakt</a>

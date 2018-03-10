@@ -10,6 +10,16 @@ function findMovie($id, $movies) {
     return null;
 }
 
+function getGenres($movies) {
+    $genres = [];
+    foreach ($movies as $movie) {
+        $movieGenres = explode(',', $movie['genres']);
+        foreach($movieGenres as $genre)
+            if(!in_array($genre, $genres))
+                array_push($genres, $genre);
+    }
+    return $genres;
+}
 
 function getReccomended($id, $movies, $len) {
     $reccomendedMovies = [];
