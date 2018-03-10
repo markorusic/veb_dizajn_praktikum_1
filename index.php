@@ -25,7 +25,7 @@ include('partials/header.php'); ?>
 
         <section class="movies mt-5">
             <div class="row">
-            <?php foreach($movies as $movie): ?>
+            <?php foreach(getReccomended(null, $movies, 12) as $movie): ?>
                 <div class="col-12 col-sm-6 col-lg-4 home-movie-item">
                     <article>
                         <h4><a href="movies.php?id=<?= $movie['id'] ?>" class="movie-name">

@@ -1,5 +1,6 @@
 img
 content/node_modules
+content/test.json
 content/package.json
 content/package-lock.json
 content/dlPhotos.js

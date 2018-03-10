@@ -13,6 +13,8 @@ function findMovie($id, $movies) {
 
 function getReccomended($id, $movies, $len) {
     $reccomendedMovies = [];
+    if(!isset($id) || is_null($id))
+        $id = $movies[0]['id'];
     foreach ($movies as $index => $movie) {
         if(count($reccomendedMovies) >= $len)
             break;
