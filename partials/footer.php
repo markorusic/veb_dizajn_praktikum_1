@@ -5,7 +5,7 @@
         <div class="float-lg-left">
             <ul class="list-reset footer-nav">
                 <li><a href="/about-me.php">O autoru</a></li>
-                <li><a href="/sitemap.xml">Sitemap</a></li>
+                <li><a href="/sitemap.xml" target="_blank">Sitemap</a></li>
             </ul>
         </div>
         <div class="float-lg-right footer-right">
