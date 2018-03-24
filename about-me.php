@@ -19,7 +19,7 @@ include('partials/header.php'); ?>
                         <a href="https://codepen.io/marko123/" class="btn-yellow mr-md-2" target="_blank"> <i class="fa fa-codepen"></i> Codepen</a> 
                     </div>
                     <hr>
-                    <p>Repozitorijum ovog sajta: <a href="https://github.com/markorusic/veb_dizajn_praktikum_1" target="_blank">https://github.com/markorusic/ict_webstore</a></p>
+                    <p>Repozitorijum ovog sajta: <a href="https://github.com/markorusic/veb_dizajn_praktikum_1" target="_blank">https://github.com/markorusic/veb_dizajn_praktikum_1</a></p>
                 </div>
 	        </div>	        
     	</div>        
